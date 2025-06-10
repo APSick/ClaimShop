@@ -70,7 +70,7 @@ header .presentation::before {
     font-size: 15px;
     font-weight: 100;
     color: #fff;
-    
+
 }
 
 main {
@@ -103,10 +103,6 @@ main .item video {
     width: 100%;
     border-radius: 10px 10px 0 0;
     transition: transform 500ms ease;
-}
-
-main .item video:hover {
-
 }
 
 main h2, main p, main b {
